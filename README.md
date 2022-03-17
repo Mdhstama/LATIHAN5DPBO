@@ -4,7 +4,11 @@
 
 **Penjelasan Desain**
 
+Desain program yang saya buat merupakan template default dari soal TP5 ini yang dimana ada *button* untuk mencetak, menghapus, mengupdate inputan dalam tabel dan *textfield* sebagai tempat untuk menerima inputan. 
 
+Terdapat 3 atribut default yaitu Nim, Nama, Nilai dan saya menambahkan 1 atribut baru yaitu Jurusan dengan tipe String. 
+
+Terdapat 4 *button* yang tersedia yaitu *ADD* untuk menambahkan data ke dalam tabel, *CANCEL* untuk membatalkan, *UPDATE* untuk memperbaharui isi atribut terpilih, *DELETE* untuk menghapus isi atribut terpilih.
 
 **Hasil Program**
 
